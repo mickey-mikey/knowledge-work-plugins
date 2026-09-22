@@ -17,6 +17,20 @@ This plugin gives Claude a persistent understanding of your work:
 - **Workplace memory** — A two-tier memory system that teaches Claude your shorthand, people, projects, and terminology. Say "ask todd to do the PSR for oracle" and Claude knows exactly who, what, and which deal.
 - **Visual dashboard** — A local HTML file that gives you a board view of your tasks and a live view of what Claude knows about your workplace. Edit from the board or the file — they stay in sync.
 
+### Dashboard appearance
+
+The **Theme** selector offers **System**, **Light**, and **Dark**. System is the default and follows your device's appearance, including changes while the dashboard is open. Choosing Light or Dark overrides the device setting. Your choice is remembered in this browser when browser storage is available; otherwise it lasts for the current page. Appearance changes do not modify tasks or memory files.
+
+Existing dashboards are standalone copies: update your local `dashboard.html` from `productivity/skills/dashboard.html` to receive these controls.
+
+Theme regression tests run without additional dependencies:
+
+```sh
+node --test productivity/tests/dashboard-theme.test.cjs
+```
+
+For browser checks, open a test copy of the dashboard in `playwright-cli`, then run `playwright-cli run-code --filename=productivity/tests/dashboard-theme.browser.js`. This uses synthetic tasks, tests both palettes across the dashboard, and opens no user files.
+
 ## Commands
 
 | Command | What it does |
