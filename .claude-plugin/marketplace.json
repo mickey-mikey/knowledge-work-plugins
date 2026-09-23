@@ -431,7 +431,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gitroomhq/postiz-agent.git",
-        "sha": "00aa5083c89fee6c673cc0ae21a70daaa3098854"
+        "sha": "8d431747a895da7ed9b38df8b3d4de180dcf682e"
       },
       "homepage": "https://postiz.com/agent"
     },
@@ -443,7 +443,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/figma/mcp-server-guide.git",
-        "sha": "ecefd5b5dfd0ca7a1b8f142e0d59bc7f8a2efde6"
+        "sha": "5d718a28ea21da0b0f75216cdc71be08b6f9b736"
       },
       "homepage": "https://github.com/figma/mcp-server-guide"
     },
@@ -514,7 +514,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "15286b2faa7cecc67af82c5a7d995ecfc61caa88"
+        "sha": "19590b870aac716b2ba86a6f4c9364c0ead53c90"
       },
       "homepage": "https://carta.com"
     },
@@ -527,7 +527,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-crm",
         "ref": "main",
-        "sha": "81b8f40844bd646842538a4583409f9aa54c42db"
+        "sha": "19590b870aac716b2ba86a6f4c9364c0ead53c90"
       },
       "homepage": "https://carta.com"
     },
@@ -540,7 +540,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "15286b2faa7cecc67af82c5a7d995ecfc61caa88"
+        "sha": "19590b870aac716b2ba86a6f4c9364c0ead53c90"
       },
       "homepage": "https://carta.com"
     },
@@ -646,7 +646,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/base44/skills.git",
-        "sha": "592535c8aa52a088eba364a4805e3c34612ff762"
+        "sha": "8548a482f606751c55dcdb1365398fbec2fcb64d"
       },
       "homepage": "https://docs.base44.com"
     },
@@ -657,7 +657,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "8895c163584c5043c023b0110586ab234fbf2fc9"
+        "sha": "91f818bb0ddf09c489567b189a0bc74dd1cb3386"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
@@ -686,7 +686,7 @@
         "url": "https://github.com/airwallex/airwallex-marketplace.git",
         "path": "plugins/airwallex-agentos",
         "ref": "master",
-        "sha": "d323dd68c85874f6311a1bd20184f803a96e09a9"
+        "sha": "b418b9913e4919f85257aa1e25319e59464e8fae"
       },
       "homepage": "https://www.airwallex.com/docs"
     },
@@ -698,7 +698,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/langfuse/skills.git",
-        "sha": "ab83111ed644c583a9ce963de773dbfbf09aebf3"
+        "sha": "f275566d06fba46278d94ceea0e00d5e0cf70e62"
       },
       "homepage": "https://langfuse.com"
     },
@@ -793,7 +793,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/buildkite/skills.git",
-        "sha": "a4bb20c6bf9ae535335f782015f65b9975065f27"
+        "sha": "50c85f20d409485b1445888983116b2f130e1630"
       },
       "homepage": "https://github.com/buildkite/skills"
     },
@@ -817,7 +817,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/datarobot-oss/datarobot-agent-skills.git",
-        "sha": "de26cbc9233c6c2c6b8ceeb5e6dcf3c5918d5a86"
+        "sha": "55a755eaf19d8403af60800904cc8b0e9e94c96f"
       },
       "homepage": "https://datarobot.com"
     },
@@ -829,7 +829,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/qdrant/skills.git",
-        "sha": "7d12f624a62e6b3738fe9a8460a22adb5f21d108"
+        "sha": "6a03d0ce8f554a579c2e14a81fb7e2245a708db0"
       },
       "homepage": "https://skills.qdrant.tech"
     },
@@ -893,7 +893,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/pixeltable/pixeltable-skill.git",
-        "sha": "70ec6a268a29b081b7d29e55fe0221ddf6064a9e"
+        "sha": "c08f73400b13a2aaf42014e20f93df4aa902d813"
       },
       "homepage": "https://docs.pixeltable.com"
     },
@@ -947,7 +947,7 @@
         "url": "https://github.com/honeycombio/agent-skill.git",
         "path": "honeycomb",
         "ref": "main",
-        "sha": "41214b7dfb97f262adabf295fa6f0fcad85bc0f6"
+        "sha": "b169d7d1c76ab93809064226b9682efb563bed34"
       },
       "homepage": "https://github.com/honeycombio/agent-skill"
     },
@@ -973,7 +973,7 @@
         "url": "https://github.com/SigNoz/agent-skills.git",
         "path": "plugins/signoz",
         "ref": "main",
-        "sha": "4cdc848eb480f02bc07d06cb8d4f8486f635cbd6"
+        "sha": "35fe186903e436950056b39d19ee83668b9f5f89"
       },
       "homepage": "https://signoz.io/docs/ai/agent-skills"
     },
@@ -1011,7 +1011,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/GoogleChrome/modern-web-guidance.git",
-        "sha": "66351a783bf1319a1d832f5544f9700098b1047d"
+        "sha": "22ab18dfb50a5d7e3bdcf471c14076a5534eae4e"
       },
       "homepage": "https://goo.gle/modern-web-guidance"
     },
@@ -1103,7 +1103,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Unity-Technologies/unity-agent-plugin.git",
-        "sha": "5ad4bafc1d91acfdeca800bfbae0072fcc7aeb58"
+        "sha": "ba48956ae8bee4ef8a3ef3d75dec03c16aa5cc89"
       },
       "homepage": "https://unity.com"
     },
@@ -1326,7 +1326,7 @@
         "url": "https://github.com/incident-io/skills.git",
         "path": "plugins/incident-io",
         "ref": "main",
-        "sha": "6d0bbfc9e52256fc39326b9ba6d08f16831b60ae"
+        "sha": "443f47164eda1f93108ebd908843925f681954ef"
       },
       "homepage": "https://incident.io"
     },
@@ -1341,9 +1341,72 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wingspanHQ/mcp-claude-plugin.git",
-        "sha": "b989f3b303a1f605955291e34ed29b755bf436e1"
+        "sha": "01f2b0806fc91d0550859a7f840db353d1edd4e9"
       },
       "homepage": "https://github.com/wingspanHQ/mcp-claude-plugin"
+    },
+    {
+      "name": "hostinger",
+      "displayName": "Hostinger",
+      "description": "Deploy, manage and monitor Hostinger services — Websites, Domains, Ecommerce, Email Marketing, Subscriptions & Payments, and VPS. Authenticate via browser (OAuth) or API token.",
+      "category": "deployment",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/hostinger/claude-plugin.git",
+        "sha": "569880c60681a7068b3ca8ca84e2fe7ab6cfa7ff"
+      },
+      "homepage": "https://www.hostinger.com"
+    },
+    {
+      "name": "pendo-analytics",
+      "displayName": "Pendo Analytics",
+      "description": "Bring Pendo product analytics into Claude: account health, feature adoption, session replay lookup and triage, feedback analysis, and data-informed planning grounded in real usage data. Requires the Pendo connector and a Pendo subscription.",
+      "author": {
+        "name": "Pendo"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/pendo-io/claude-pendo-plugin.git",
+        "path": "plugins/pendo-analytics",
+        "ref": "main",
+        "sha": "340d503c23eed487be83693aa4c1837df4a7dcd4"
+      },
+      "homepage": "https://www.pendo.io"
+    },
+    {
+      "name": "pendo-guides",
+      "displayName": "Pendo Guides",
+      "description": "Create production-ready Pendo in-app guides (walkthroughs, announcements, alerts, polls, promotions) as HTML/CSS/JS from a short intake conversation, using Pendo's guide components.",
+      "author": {
+        "name": "Pendo"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/pendo-io/claude-pendo-plugin.git",
+        "path": "plugins/pendo-guides",
+        "ref": "main",
+        "sha": "340d503c23eed487be83693aa4c1837df4a7dcd4"
+      },
+      "homepage": "https://www.pendo.io"
+    },
+    {
+      "name": "pendo-orchestrate",
+      "displayName": "Pendo Orchestrate",
+      "description": "Create, configure and edit draft Pendo Orchestrate email journeys, including multi-email and conditional split flows, via the Pendo connector. Journeys stay in draft; activation happens in the Orchestrate UI.",
+      "author": {
+        "name": "Pendo"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/pendo-io/claude-pendo-plugin.git",
+        "path": "plugins/pendo-orchestrate",
+        "ref": "main",
+        "sha": "340d503c23eed487be83693aa4c1837df4a7dcd4"
+      },
+      "homepage": "https://www.pendo.io"
     }
   ]
 }
